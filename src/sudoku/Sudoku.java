@@ -8,8 +8,6 @@ public class Sudoku {
 
 	/**
 	 * @Ata
-	 * 
-	 * 
 	 */
 
 	public static void main(String[] args) {
