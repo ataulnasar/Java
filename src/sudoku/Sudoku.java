@@ -6,7 +6,9 @@ import java.util.List;
 public class Sudoku {
 
 	/**
-	 * @Ata
+	 * @Ata   
+	 * @About: A simple implementation of Sudoku generator that-
+	 *  presents different arbitrary assignments in the size of 4*4. 
 	 */
 
 	/*Create a Sudoku*/

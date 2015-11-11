@@ -6,6 +6,7 @@ public class Main {
 
 	/**
 	 * @Ata
+	 * Main method of a Sudoku generator that presents different arbitrary assignments in the size of 4*4. 
 	 */
 
 	public static void main(String[] args) {
