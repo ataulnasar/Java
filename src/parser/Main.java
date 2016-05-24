@@ -8,7 +8,6 @@ public class Main {
 
 		TextToXMLConverter main = new TextToXMLConverter();
 		Stack<String> list = new Stack<String>();
-
 		list = main.readFile("file.txt");
 		main.textToXML(list, "file.xml");
 	}
